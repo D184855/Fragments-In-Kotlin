@@ -1,0 +1,2 @@
+rootProject.name = "Fragements In Kotlin"
+include ':app'
